@@ -13,7 +13,8 @@
 Example of use:
 
 Knowledge base:
-![](images/kb.png)
+<img src="images/kb.png" width="250"/>
+
 
 Output:
 ![](images/model.png)
@@ -26,11 +27,11 @@ Output:
 
 Item from the 4 class:
 
-![](images/4.png)
+<img src="images/4.png" width="300"/>
 
 Item from the 9 class:
 
-![](images/9.png)
+<img src="images/9.png" width="300"/>
 
 
 ## [Project 4: Longest common subsequence (LCS) implementation](https://github.com/ricardomontalvo/Longest-common-subsequence-algorithm)
@@ -40,4 +41,5 @@ Item from the 9 class:
 - Implementation of a Bloom Filter using the mmh3 hash function
 - The false positive ratio is given by using various numbers of hash functions are compared to the theoretical predictions
 
-![](images/fpr_vs_hash.png)
+
+<img src="images/fpr_vs_hash.png" width="350"/>
