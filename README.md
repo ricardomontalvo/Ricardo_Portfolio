@@ -1,3 +1,4 @@
+This coding portfolio belongs to Ricardo Montalvo.
 
 # [Project 1: Connect Four with AI adversary](https://github.com/ricardomontalvo/Connect-4-with-AI-adversary)
 - Implementation of the classic Connect Four game where a user can play against an AI adversary
