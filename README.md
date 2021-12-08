@@ -1,11 +1,11 @@
 # [Project 1: Connect Four with AI adversary](https://github.com/ricardomontalvo/Connect-4-with-AI-adversary)
-- Implementation of the classic Connect Four game where a user can play against an AI adversary
+- An implementation of the classic Connect Four game where a user can play against an AI adversary
 - The AI uses the MTD(f) algorithm in order to compute one of the best moves available
 
 <img src="images/gameplay.png" width="400"/>
 
 # [Project 2: DPLL algorithm implementation from scratch](https://github.com/ricardomontalvo/DPLL-algorithm)
-- Davis–Putnam–Logemann–Loveland algorithm implemented from scratch
+- The Davis–Putnam–Logemann–Loveland algorithm implemented from scratch
 - It takes logical formulas in the conjunctive normal form and outputs whether they are satisfiable and, if so, a model that works
 
 Example of use:
