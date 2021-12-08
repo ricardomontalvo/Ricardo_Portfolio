@@ -1,3 +1,5 @@
+Follow the links to land on the projects' pages
+
 # [Project 1: Connect Four with AI adversary](https://github.com/ricardomontalvo/Connect-4-with-AI-adversary)
 - An implementation of the classic Connect Four game where a user can play against an AI adversary
 - The AI uses the MTD(f) algorithm in order to compute one of the best moves available
