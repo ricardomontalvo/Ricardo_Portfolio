@@ -35,10 +35,10 @@ Item from the 9 class:
 
 
 # [Project 4: Longest common subsequence (LCS) implementation](https://github.com/ricardomontalvo/Longest-common-subsequence-algorithm)
-- Algorithm that finds the longest common subsequence given two strings as inputs as well as the lenght of said LCS
+- An algorithm that finds the longest common subsequence of two input strings as well as the lenght of said LCS
 
 # [Project 5: Bloom Filter implementation](https://github.com/ricardomontalvo/Bloom-filter-report)
-- Implementation of a Bloom Filter using the mmh3 hash function
+- An implementation of a Bloom Filter using the mmh3 hash function
 - The false positive ratio given by various numbers of hash functions, compared to the theoretical predictions
 
 
