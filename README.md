@@ -35,7 +35,7 @@ Item from the 9 class:
 
 
 # [Project 4: Longest common subsequence (LCS) implementation](https://github.com/ricardomontalvo/Longest-common-subsequence-algorithm)
-- An algorithm that finds the longest common subsequence of two input strings as well as the lenght of said LCS
+- The dynamic programming solution to find the longest common subsequence of two input strings as well as the lenght of said LCS
 
 # [Project 5: Bloom Filter implementation](https://github.com/ricardomontalvo/Bloom-filter-report)
 - An implementation of a Bloom Filter using the mmh3 hash function
